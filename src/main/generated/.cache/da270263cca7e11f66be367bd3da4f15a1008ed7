@@ -1,0 +1,7 @@
+// 26.3	-999999999-01-01T00:00:00	CobaltAge/Block Loot Tables
+32b106268d29159ed2dc4c882cd65a479fd44a3c data/cobaltage/loot_table/blocks/cobalt_block.json
+203380cf4684cf329a2d3981ad618e20392bb9ed data/cobaltage/loot_table/blocks/cobalt_dust_block.json
+fb5c2f42da241c164dd89adf850d8f344e5f8120 data/cobaltage/loot_table/blocks/cobalt_lamp.json
+74061a3137d069f3662146cd63fb340c3193ed30 data/cobaltage/loot_table/blocks/cobalt_ore.json
+10bc97c5a712371a66b22487b3c22ee8a24d6763 data/cobaltage/loot_table/blocks/deepslate_cobalt_ore.json
+b0f67b6387545cfd1d5bf7842a378c34a2131360 data/cobaltage/loot_table/blocks/raw_cobalt_block.json
