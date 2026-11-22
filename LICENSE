@@ -1,0 +1,140 @@
+COBALTMC SOURCE-AVAILABLE PROPRIETARY LICENSE
+Version 1.0 — 20 November 2026
+
+Copyright (c) 2026 the respective CobaltMC contributors, including
+Kole07139 (KanieOutis) and JaviF14, to the extent of each person's
+original copyrightable contributions. All rights reserved.
+
+IMPORTANT: This is a custom proprietary, source-available license, NOT an
+open-source license, and NOT the GNU AGPL or GPL. It may be used only
+for material that the relevant rights holders are entitled to license
+on these terms. It does not override third-party or previously granted
+open-source licenses.
+
+1. DEFINITIONS
+
+"Project" means the CobaltMC software identified by the accompanying
+repository and its official releases.
+
+"Covered Material" means newly authored source code, assets,
+documentation and binaries designated as proprietary under this License,
+where the relevant copyright holder has authorized such designation.
+Excluded Material is governed by its own license instead.
+
+"Official Release" means a compiled release approved for distribution
+under the founders' duly executed Co-Development and Governance Agreement.
+
+"Contributor" means a person who owns original copyrightable material
+contributed to the Project. The CobaltMC GitHub or Modrinth organization
+account does not, by itself, acquire ownership of that material.
+
+2. OWNERSHIP AND RESERVED RIGHTS
+
+Each Contributor retains all copyright and other rights in their own
+original contributions unless they separately assign those rights in
+writing. Jointly authored material remains subject to applicable law and
+any written contributor ownership allocation. No assignment or general
+cross-license is created merely by publishing source code in this
+repository or by granting a repository role.
+
+All rights not expressly granted in this License or by another valid,
+written authorization are reserved.
+
+3. LIMITED PERMISSION FOR END USERS
+
+A recipient who lawfully obtains an Official Release from an authorized
+channel may download, install and run that release for personal use or
+operation of a Minecraft client or server, subject to applicable law and
+any notices included with the release.
+
+This permission does NOT authorize publishing modified releases,
+redistributing Covered Material, distributing source code or compiled
+copies to third parties, sublicensing, selling or incorporating Covered
+Material into a separate project, except with prior written consent of
+all relevant copyright holders. Nothing in this License restricts rights
+that cannot lawfully be waived, including applicable statutory software
+interoperability and reverse-engineering exceptions.
+
+End-user permission validly granted for an already lawfully acquired
+Official Release is not retroactively revoked solely because a Founder
+later leaves or is removed. No authorization for new distributions
+follows from that continued end-user use.
+
+4. PUBLIC SOURCE CODE IS NOT AN OPEN REUSE LICENSE
+
+The source may be publicly readable on GitHub for transparency, review,
+security research and educational inspection. Publication does not grant
+a general license to compile, modify, republish, incorporate, mirror,
+distribute, commercialize or sublicense the Covered Material.
+
+GitHub's Terms of Service independently allow certain viewing and
+forking/copying functions within GitHub. This License does not purport
+to eliminate rights required by those Terms. A GitHub fork alone does not
+grant authorization to release a competing mod or redistribute the
+Covered Material beyond the rights otherwise held.
+
+5. CONTRIBUTOR-TO-CONTRIBUTOR AUTHORIZATIONS
+
+Rights for Kole07139, JaviF14 or another project participant to use
+another person's Covered Material for active CobaltMC development,
+maintenance, compilation and publication arise only from their signed
+Co-Development and Governance Agreement or an equivalent written license.
+Those permissions are purpose-limited and conditional. They are not
+unrestricted ownership rights.
+
+No right to transfer Covered Material to a new project, brand, repository,
+Modrinth page, organization, or third-party operator is implied.
+
+6. DEPARTURE, EXCLUSION, AND FUTURE RELEASES
+
+If a Contributor exits or is excluded, that person's right to withdraw
+prospective project-use authorizations, and the surviving participant's
+obligations concerning future releases, are governed by the separately
+signed Co-Development and Governance Agreement, subject to law and any
+prior valid licenses.
+
+Where that Agreement provides for prospective termination of a limited
+proprietary license, no new release after the effective termination date
+may include the affected Contributor's proprietary Covered Material
+without fresh written authorization. Rewriting or replacing the material
+must respect copyright and any applicable third-party licenses.
+
+This section cannot and does not withdraw GPL/AGPL or other irrevocable
+permissions already validly granted to anyone.
+
+7. THIRD-PARTY MATERIAL AND HISTORICAL GPL RELEASES
+
+This License does not apply to material governed by a separate license,
+including MIT, Apache, GPLv3, AGPLv3, LGPL or other third-party terms.
+Historical Cobalt Age versions previously distributed under GPLv3 remain
+subject to the rights validly granted under GPLv3. This License does not
+permit removing their copyright notices or imposing additional
+restrictions on those GPL-covered copies.
+
+No person may relabel another rights holder's code or assets as
+proprietary merely by copying them into CobaltMC. A third-party license
+notice and inventory must be retained where applicable.
+
+8. ATTRIBUTION AND TRADEMARKS
+
+Applicable copyright and attribution notices must be preserved.
+Historical authorship must not be misrepresented. Use of the CobaltMC
+name, project identity and branding outside officially authorized
+releases requires the rights holder's authorization, except as permitted
+by law. Trademark rights, if any, are separate from software copyright.
+
+9. NO WARRANTY AND LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COVERED MATERIAL IS
+PROVIDED "AS IS", WITHOUT WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE OR NON-INFRINGEMENT. LIABILITY IS EXCLUDED ONLY TO
+THE EXTENT THAT SUCH EXCLUSION IS PERMITTED BY APPLICABLE LAW.
+
+10. PRECEDENCE AND EFFECTIVE ADOPTION
+
+If a component is subject to an existing valid license that conflicts
+with this License, that other license governs the component to the
+extent required by law and the applicable rights grant. The founders'
+Agreement governs only the contractual relationship of its signatories;
+it does not automatically bind the general public or unrelated third
+parties.
