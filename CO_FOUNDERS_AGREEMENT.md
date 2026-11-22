@@ -5,10 +5,9 @@
 **Founder A:** Marco, known publicly as **Kole07139 / KanieOutis**  
 **Founder B:** Javier, known publicly as **JaviF14**  
 **Project/organization:** CobaltMC  
-**Modrinth organization and project URL:** [missing]  
-**GitHub organization and repository URL:** [missing]  
-**Effective date:** [YYYY-MM-DD]  
-**Governing law and courts or dispute-resolution forum:** [select and insert after legal review]  
+**Modrinth organization and project URL:** https://modrinth.com/organization/cobaltmc  
+**GitHub organization and repository URL:** https://github.com/Cobalt-MC/
+**Effective date:** 2026-11-22  
 **Formal notice email for Founder A:** marcohostingservice@gmail.com  
 **Formal notice email for Founder B:** [missing]
 
