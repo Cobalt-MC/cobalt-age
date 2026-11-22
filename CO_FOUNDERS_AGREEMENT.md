@@ -137,8 +137,8 @@ Date: 20/11/2026
 
 **Founder B (JaviF14)**  
 
-Legal name: ______________________________  
+Legal name: Javier  
 
-Signature: ________________________________  
+Signature: JF14  
 
-Date: _____________________________________
+Date: 22/11/2026
