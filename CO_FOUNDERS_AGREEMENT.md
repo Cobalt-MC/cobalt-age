@@ -12,7 +12,7 @@
 
 **Effective date:** 2026-11-22  
 **Formal notice email for Founder A:** marcohostingservice@gmail.com  
-**Formal notice email for Founder B:** [missing]
+**Formal notice email for Founder B:** javifsobrino14@outlook.com
 
 ## 1. Purpose and equality
 
